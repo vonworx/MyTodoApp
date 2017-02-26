@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Todo List - Long click to remove a task</string>
+    <string name="add_item">Add New Task</string>
+    <string name="enter_a_new_item">Enter a new item</string>
+</resources>
